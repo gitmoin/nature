@@ -1,0 +1,62 @@
+ 
+    .emoji {
+      font-size: 8px;
+      color: red;
+    }
+
+    body {
+      background: #ECF0F6;
+      text-align: center;
+
+    }
+
+    hr {
+
+      border: 0px;
+      border-bottom: 3px dotted lightgray;
+      width : 5%;
+    }
+
+
+    h1, h2 {
+
+      color: #66bfbf;
+            font-family: 'Berkshire Swash', cursive;
+    }
+
+    h3 {
+      color: #7D3C98;
+                  font-family: 'Berkshire Swash', cursive;
+                  margin-top: 5px;
+                  margin-bottom: 5px;
+    }
+
+  
+  h1 {
+    margin: 0;
+  }
+  .midContainer, .bottomContainer {
+    width:200px;
+    height: 200px;
+  }
+
+  .topContainer{
+    margin-top: 20px;
+  }
+
+
+
+  .bottom-cloud {
+    position: absolute;
+    top: 205px;
+    left: 385px;
+  }
+
+
+  .top-cloud {
+
+    position: relative;
+    left:  300px;
+  }
+
+
